@@ -1,0 +1,24 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright/test artifacts
+playwright-report/
+test-results/
+trace.zip
+*.zip
+
+# Logs
+*.log
+logs/
+
+# Local configuration / secrets
+.env
+.env.*

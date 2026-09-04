@@ -1,0 +1,6 @@
+browser:
+  type: CHROMIUM
+  headless: true
+  maximized: false
+  timeout: 20000 # mandatory
+  navigationTimeout: 30000 # mandatory
